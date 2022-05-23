@@ -10,4 +10,4 @@ http://localhost:8090/api/registerUser
 Input: application/json
 
 Api Documentation 
-http://localhost:8090/swagger-ui/index.html](http://localhost:8090/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/
+http://localhost:8090/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/
